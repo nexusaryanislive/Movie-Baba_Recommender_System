@@ -1,0 +1,14 @@
+# macOS system file
+.DS_Store
+
+# Object files
+.a
+
+# IDE folder
+.idea/
+
+
+# Data files
+movie_dict.pkl
+movies.pkl
+similarity.pkl
